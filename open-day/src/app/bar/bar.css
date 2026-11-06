@@ -6,3 +6,6 @@
   border-radius: 6px;
   background-color: #ffe08a;
 }
+:host(:hover) { 
+border-color: #0b3d91;
+}

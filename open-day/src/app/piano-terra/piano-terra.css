@@ -1,0 +1,13 @@
+:host {
+  display: block;
+  background-color: white;
+  margin: 14px;
+  padding: 10px;
+  border: 3px solid #0b3d91;
+  border-radius: 8px;
+}
+h2 { color: #0b3d91; }
+.stanze {
+  display: flex;
+  gap: 12px;
+}
