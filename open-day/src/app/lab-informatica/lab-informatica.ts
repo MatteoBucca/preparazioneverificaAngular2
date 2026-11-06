@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   templateUrl: './lab-informatica.html',
 })
 export class LabInformatica {
-  name = 'Laboratorio di nfomartica'
+  name = 'Laboratorio di infomartica'
 }
