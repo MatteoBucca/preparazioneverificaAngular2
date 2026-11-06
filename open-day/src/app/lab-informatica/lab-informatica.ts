@@ -6,4 +6,6 @@ import { Component } from '@angular/core';
   styleUrl: './lab-informatica.css',
   templateUrl: './lab-informatica.html',
 })
-export class LabInformatica {}
+export class LabInformatica {
+  name = 'Laboratorio di nfomartica'
+}
